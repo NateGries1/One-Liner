@@ -4,6 +4,7 @@ I created this project as a way to cope with the fact that I cannot one-line eve
 ## How to one-line your files
 1. Compile oneliner.cpp to create an executable file
 - g++: ```g++ oneliner.cpp -o run```
+or
 - clang++: ```clang++ oneliner.cpp -o run```
 2. Import/Create file to one-line
 3. Call executable file with the one-lineable file as the argument
